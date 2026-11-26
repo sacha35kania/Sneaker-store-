@@ -1,2 +1,1 @@
-# Sneaker-store-
-Online sneaker-store with telegram ordering
+https://t.me/SneakerStore_UA_bot
